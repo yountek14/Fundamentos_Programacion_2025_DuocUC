@@ -6,3 +6,4 @@ print(2023)
 # O hacer operaciones básicas
 print(20 + 25)
 print(2<3)
+print("prueba")
